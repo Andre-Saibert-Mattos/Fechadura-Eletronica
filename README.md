@@ -1,0 +1,2 @@
+# Fechadura-Eletronica
+Este projeto tem como objeto criar um sistema de fechadura eletrônica, na qual, será controlada pelo microcontrolador ESP32, além do ESP32 a fechadura também conta com um teclado de membrana para a inserção de ID (identidade) e de senha. Os IDs e as senhas serão armazenados em uma memória EEPROM I2C gerenciada pelo ESP e também em uma planilha google que possui conexão com a internet, assim criasse um banco de dados online, podendo ser editado de forma remota.
